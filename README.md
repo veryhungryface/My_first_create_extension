@@ -1,8 +1,15 @@
 
 > 이 페이지를 [https://veryhungryface.github.io/my_first_create_extension/](https://veryhungryface.github.io/my_first_create_extension/)으로 열기
 
-## 태영이가 만든 첫 Extension 연습
-
+## Extension 사용방법
+### ``PlotAt`` 
+LED를 조정할 수 있습니다.
+```blocks
+for (let i = 0; i <25; ++i) {
+    screenMagic.plotAt(i)
+    basic.pause(500)
+}
+```
 ## 확장으로 사용
 
 이 저장소는 MakeCode에서 **확장**으로 추가될 수 있습니다.
