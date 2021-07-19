@@ -1,6 +1,8 @@
 
 > 이 페이지를 [https://veryhungryface.github.io/my_first_create_extension/](https://veryhungryface.github.io/my_first_create_extension/)으로 열기
 
+## 태영이가 만든 첫 Extension 연습
+
 ## 확장으로 사용
 
 이 저장소는 MakeCode에서 **확장**으로 추가될 수 있습니다.
